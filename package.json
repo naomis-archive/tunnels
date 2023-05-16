@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "lint": "ng lint",
     "test": "ng test --no-watch --no-progress --browsers=ChromeHeadlessCI",
-    "deploy": "ng deploy"
+    "deploy": "ng deploy --no-silent"
   },
   "engines": {
     "node": "18.16.0",
