@@ -1,0 +1,22 @@
+img {
+  height: 250px;
+}
+
+.tunnel {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.pill {
+  display: inline-block;
+  padding: 0.1rem 0.5rem;
+  border-radius: 50px;
+}
