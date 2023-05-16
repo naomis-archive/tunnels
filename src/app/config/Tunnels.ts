@@ -15,4 +15,9 @@ export const Tunnels = [
       "For showing development instances of Angular projects like this one!",
     url: "https://angular.naomi.exposed",
   },
+  {
+    name: "Development",
+    description: "Miscellaneous tunnel for one-off demonstrations.",
+    url: "https://dev.naomi.exposed",
+  },
 ];
